@@ -10,9 +10,8 @@ A simple command line tic-tac-toe game written in JavaScript, run using NodeJS.
 Players 'X' and 'O' take turn inputing their position on the command line using numbers 1-9
 
 Example board:
-    1 | 2 | 3 \n
-    --------- \n
-    4 | 5 | 6 \n
-    --------- \n
-    7 | 8 | 9 \n
-
+>1 | 2 | 3
+>---------
+>4 | 5 | 6
+>---------
+>7 | 8 | 9
